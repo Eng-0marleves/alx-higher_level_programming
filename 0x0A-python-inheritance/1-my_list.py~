@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-class MyList(list):
+class MyList:
     """
     module "1-my_list"
     """
